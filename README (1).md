@@ -437,7 +437,7 @@ fraud-detection-sql/
 
 SQL Server · Power BI · DAX · Data Modelling · Financial Analytics
 
-Based in Aba, Abia State, Nigeria
+Based in Nigeria
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-Olumidave-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Olumidave)
